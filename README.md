@@ -1,5 +1,7 @@
-# openpyxl-mini-project
- Using python to edit Excel spreadsheets
+# /
+Excel-Automation-with-openpyxl
+
+ Using python to automate Excel spreadsheets
  
  Goals:
  
